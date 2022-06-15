@@ -1,5 +1,5 @@
 
-# Bad Jokes :(
+# Bad Jokes :)
 A chrome Extension for generating jokes. Used API for generating all new jokes whenever its clicked!
 
 ## Badges
