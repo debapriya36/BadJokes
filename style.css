@@ -1,0 +1,16 @@
+body{
+    width: 320px;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+}
+p{
+    display:inline-flex;
+    margin: auto 12px;
+    font-size: 23px;
+    color: rgb(70, 16, 156);
+    border-radius: 30px;
+    border: 1px solid rgb(11, 171, 224);
+    padding: 12px;
+}
